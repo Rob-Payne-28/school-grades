@@ -31,7 +31,7 @@ git clone https://github.com/Rob-Payne-28/school-grades.git
 ```
 
 ### Environment Variables:
-Create a .env file (if one doesn't already exist) in the same directory as your script to store sensitive information like URLs and login credentials. Refer to the sample .env template below.
+Create a .env file (if one doesn't already exist) in the same directory as your script to store sensitive information like URLs and login credentials. Replace the sample .env variables below with your values.
 
 ```shell
 touch .env
